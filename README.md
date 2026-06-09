@@ -1,4 +1,4 @@
-## <img src="https://clove.is-a.dev/assets/socials/discord.svg"></img> Discord Status
+## <img src="https://git.gay/doughmination/.profile/raw/branch/main/discord.png"></img> Discord Status
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1464890289922641993)](https://discord.com/users/1464890289922641993)
 
