@@ -7,6 +7,8 @@ Solent University <img src="https://git.gay/doughmination/.profile/raw/branch/ma
 
 Archeon Logo <img src="https://git.gay/doughmination/.profile/raw/branch/main/favicon.png" height="20"> - All web related stuff
 
+Worker Logo <img src="https://git.gay/doughmination/.profile/raw/branch/main/worker.png" height="20"> - All Cloudflare Workers
+
 Discord Logo <img src="https://git.gay/doughmination/.profile/raw/branch/main/discord.png" height="20"> - All Discord bots I worked on
 
 Profile Logo <img src="https://git.gay/doughmination/.profile/raw/branch/main/avatar.png" height="20"> - All personal projects I am working on
