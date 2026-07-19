@@ -3,17 +3,3 @@ I am a transfeminine programmer fluent in various languages, including TypeScrip
 
 # ⏱️ Wakatime
 <a href="https://wakatime.com/@e19c1a99-1a22-4467-9748-d6d1842d20fa"><img src="https://wakatime.com/badge/user/e19c1a99-1a22-4467-9748-d6d1842d20fa.svg" alt="Total time coded since Oct 21 2025" /></a>
-
-# 🏷️ Naming Scheme
-
-Solent University <img src="https://git.stupid.cat/c/.profile/raw/branch/main/solent.png" height="20"> - All my works I did at Solent University
-
-Archeon Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/favicon.png" height="20"> - All web related stuff
-
-Worker Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/worker.png" height="20"> - All Cloudflare Workers
-
-Discord Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/discord.png" height="20"> - All Discord bots I worked on
-
-Profile Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/avatar.png" height="20"> - All personal projects I am working on
-
-GitCommit Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/icon.png" height="20"> - Specifially for GitCommit, a git based workflow
