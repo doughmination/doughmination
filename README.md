@@ -6,14 +6,14 @@ I am a transfeminine programmer fluent in various languages, including TypeScrip
 
 # 🏷️ Naming Scheme
 
-Solent University <img src="https://codeberg.org/clove/.profile/raw/branch/main/solent.png" height="20"> - All my works I did at Solent University
+Solent University <img src="https://git.stupid.cat/c/.profile/raw/branch/main/solent.png" height="20"> - All my works I did at Solent University
 
-Archeon Logo <img src="https://codeberg.org/clove/.profile/raw/branch/main/favicon.png" height="20"> - All web related stuff
+Archeon Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/favicon.png" height="20"> - All web related stuff
 
-Worker Logo <img src="https://codeberg.org/clove/.profile/raw/branch/main/worker.png" height="20"> - All Cloudflare Workers
+Worker Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/worker.png" height="20"> - All Cloudflare Workers
 
-Discord Logo <img src="https://codeberg.org/clove/.profile/raw/branch/main/discord.png" height="20"> - All Discord bots I worked on
+Discord Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/discord.png" height="20"> - All Discord bots I worked on
 
-Profile Logo <img src="https://codeberg.org/clove/.profile/raw/branch/main/avatar.png" height="20"> - All personal projects I am working on
+Profile Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/avatar.png" height="20"> - All personal projects I am working on
 
-GitCommit Logo <img src="https://codeberg.org/clove/.profile/raw/branch/main/icon.png" height="20"> - Specifially for GitCommit, a git based workflow
+GitCommit Logo <img src="https://git.stupid.cat/c/.profile/raw/branch/main/icon.png" height="20"> - Specifially for GitCommit, a git based workflow
