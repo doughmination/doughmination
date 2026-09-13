@@ -11,7 +11,9 @@
 
 Hi, I'm Clove! I'm a 22-year-old transfeminine developer with 9 years of programming experience.
 
-I enjoy building open-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
+I am the Owner and Maintainer of [JPML](https://github.com/jpml-lang), the new language for storing data easy, without having to write scripts to view the data
+
+I enjoy building both open and closed-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
 
 I started programming by making Discord bots with JavaScript, and since then I've explored many different areas of development, from web applications and APIs to automation tools and community projects.
 
