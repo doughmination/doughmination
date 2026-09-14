@@ -23,4 +23,4 @@ If you need support with any code I create, or have general enquires, check my [
 
 # GitHub Badges
 
-<img src="https://m.doughmination.gay/gh-badges/GitHubSponsorBadge.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/PullShark.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/QuickDraw_SkinTone2.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/YOLO_Badge.png" width="75">
+<img src="https://m.doughmination.gay/gh-badges/GitHubSponsorBadge.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/PullShark_Bronze.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/QuickDraw_SkinTone2.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/YOLO_Badge.png" width="75">
