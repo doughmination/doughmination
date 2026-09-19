@@ -11,7 +11,7 @@
 
 Hi, I'm Clove! I'm a 22-year-old transfeminine developer with 9 years of programming experience.
 
-I am the Owner and Maintainer of [JPML](https://github.com/jpml-lang), a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
+I am the Owner and Maintainer of [JPCL](https://github.com/jpcl-lang), a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
 
 I enjoy building both open and closed-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
 
