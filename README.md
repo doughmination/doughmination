@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://m.doughmination.gay/pk/avatars/C1.png" width="150">
+  <img src="https://avatars.githubusercontent.com/u/158981303" width="150">
 
   <h1>Hi, I'm Clove! 👋</h1>
   <p>
