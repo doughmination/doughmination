@@ -16,11 +16,3 @@ I am the Owner and Maintainer of [JPCL](https://github.com/jpcl-lang), a simple,
 I enjoy building both open and closed-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
 
 I started programming by making Discord bots with JavaScript, and since then I've explored many different areas of development, from web applications and APIs to automation tools and community projects.
-
-# Support
-
-If you need support with any code I create, or have general enquires, check my [docs](https://docs.doughmination.gay) first, or you can access my [Matrix](https://matrix.to/#/#doughmination:matrix.org) or my [Discord](https://discord.gg/N8gCjS294R)
-
-# GitHub Badges
-
-<img src="https://m.doughmination.gay/gh-badges/GitHubSponsorBadge.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/PullShark_Bronze.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/QuickDraw_SkinTone2.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/YOLO_Badge.png" width="75">
