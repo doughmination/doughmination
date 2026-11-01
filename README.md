@@ -12,13 +12,14 @@ Developer, open-source enthusiast, and builder of small tools, APIs, and communi
 
 Hi, I'm Clove! I'm an AI-neutral transfeminine developer with 9 years of programming experience, and plenty of opinions.
 
-More about me on my personal website.
+> More about me on my [personal website](https://doughmination.gay).
 
-I'm the owner and maintainer of JPCL, a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
+I'm the owner and maintainer of [JPCL](https://github.com/jpcl-lang), a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
 
-I also review PRs for is-a.dev, and spend most of my time yapping on their Discord.
+I also review PRs for [is-a.dev](https://github.com/is-a-dev), and spend most of my time yapping on their Discord.
 
-I DO NOT LIKE CLANKWARE, AND HAVE COINED THE TERM MYSELF!
+### I DO NOT LIKE [CLANKWARE](http://clankware.urbanup.com/18721800), AND HAVE COINED THE TERM MYSELF!
+
 # Contact
 
-I have GitHub notifications turned off, so if you need me, email is your best bet. Alternatively, you can reach out via Discord.
+I have GitHub notifications turned off, reach out via another social media from my [contact page](https://doughmination.gay/contact).
