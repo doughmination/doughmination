@@ -1,18 +1,26 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/158981303" width="150">
+<img src="https://avatars.githubusercontent.com/u/158981303" width="150">
 
-  <h1>Hi, I'm Clove! 👋</h1>
-  <p>
-    Developer, open-source enthusiast, and builder of small tools, APIs, and community projects.
-  </p>
+<h1>🖤 Hi, I'm Clove Twilight! 🖤</h1>
+<p>
+Developer, open-source enthusiast, and builder of small tools, APIs, and community projects.
+</p>
+<p>
+"Fucking Clankware" est. 2025
+</p>
 </div>
 
 # About Me
 
-Hi, I'm Clove! I'm a 22-year-old transfeminine developer with 9 years of programming experience.
+Hi, I'm Clove! I'm an AI-neutral transfeminine developer with 9 years of programming experience, and plenty of opinions.
 
-I am the Owner and Maintainer of [JPCL](https://github.com/jpcl-lang), a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
+More about me on my personal website.
 
-I enjoy building both open and closed-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
+I'm the owner and maintainer of JPCL, a simple, human-editable data format combining TOML-style sections with JSON-style nesting.
 
-I started programming by making Discord bots with JavaScript, and since then I've explored many different areas of development, from web applications and APIs to automation tools and community projects.
+I also review PRs for is-a.dev, and spend most of my time yapping on their Discord.
+
+I DO NOT LIKE CLANKWARE, AND HAVE COINED THE TERM MYSELF!
+# Contact
+
+I have GitHub notifications turned off, so if you need me, email is your best bet. Alternatively, you can reach out via Discord.
