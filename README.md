@@ -10,7 +10,11 @@ Developer, open-source enthusiast, and builder of small tools, APIs, and communi
 
 # About Me
 
-Hi, I'm Clove! I'm an AI-neutral transfeminine developer with 9 years of programming experience, and plenty of opinions.
+Hi, I'm Clove!
+
+I'm a 22-year old, transfeminine developer with 9 years of programming experience, and plenty of opinions.
+
+I am AI-Neutral, and judge AI use a lot.
 
 > More about me on my [personal website](https://doughmination.gay).
 
