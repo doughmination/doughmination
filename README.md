@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/158981303" width="150">
-
 <h1>🖤 Hi, I'm Clove Twilight! 🖤</h1>
 <p>
 Developer, open-source enthusiast, and builder of small tools, APIs, and community projects.
