@@ -15,9 +15,6 @@ jobs:
       cancel-in-progress: false
 
     env:
-      MIRROR_HOST: backup.doughmination.gay
-      MIRROR_USERNAME: ${{ secrets.MIRROR_USERNAME }}
-      MIRROR_REPO: ${{ secrets.MIRROR_REPO }}
       MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
 
     steps:
@@ -49,17 +46,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          if [ -z "$MIRROR_USERNAME" ]; then
-            echo "MIRROR_USERNAME is not set" >&2
-            exit 1
-          fi
-
-          if [ -z "$MIRROR_REPO" ]; then
-            echo "MIRROR_REPO is not set" >&2
-            exit 1
-          fi
-
-          targetUrl="https://${MIRROR_HOST}/${MIRROR_USERNAME}/${MIRROR_REPO}.git"
+          targetUrl="https://git.doughmination.gay/clove/+dough.git"
 
           echo "Mirroring ${GITHUB_REPOSITORY} -> ${targetUrl}"
 
@@ -67,5 +54,5 @@ jobs:
 
           # Credentials go through a helper so the token never lands in .git/config
           git -c credential.helper= \
-              -c "credential.helper=!f() { echo username=\"\$MIRROR_USERNAME\"; echo password=\"\$MIRROR_TOKEN\"; }; f" \
+              -c "credential.helper=!f() { echo username="clove"; echo password=\"\$MIRROR_TOKEN\"; }; f" \
               push --mirror mirror
