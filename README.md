@@ -11,9 +11,7 @@ Developer, open-source enthusiast, and builder of small tools, APIs, and communi
 # About Me
 
 > [!IMPORTANT]
-> I am in the middle of migrating to my own git forge, and will stop using GitHub soon.
->
-> After I migrate, I will remain active on GitHub for my orgs, and nothing else.
+> I have migrated to my own git forge, and only use GitHub for stuff like [is-a.dev](https://github.com/is-a-dev).
 > 
 > You can find my repos [here](https://git.doughminaion.gay/clove) and my archived data [here](https://git.doughmination.gay/doughmination)
 
