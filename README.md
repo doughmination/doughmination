@@ -13,7 +13,7 @@ Developer, open-source enthusiast, and builder of small tools, APIs, and communi
 > [!IMPORTANT]
 > I have migrated to my own git forge, and only use GitHub for stuff like [is-a.dev](https://github.com/is-a-dev).
 > 
-> You can find my repos [here](https://git.doughminaion.gay/clove) and my archived data [here](https://git.doughmination.gay/doughmination)
+> You can find my repos [here](https://git.doughmination.gay/clove) and my archived data [here](https://git.doughmination.gay/doughmination)
 
 Hi, I'm Clove!
 
