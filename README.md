@@ -10,6 +10,9 @@ Developer, open-source enthusiast, and builder of small tools, APIs, and communi
 
 # About Me
 
+> [!IMPORTANT]
+> I am in the middle of migrating to my own git forge, and will stop using GitHub soon. I remain active on GitHub for my orgs, and nothing else.
+
 Hi, I'm Clove!
 
 I'm a 22-year old, transfeminine developer with 9 years of programming experience, and plenty of opinions.
